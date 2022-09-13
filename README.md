@@ -1,1 +1,1 @@
-# standardnotes-lite-editor
+# Standard Notes Lite Editor
